@@ -21,6 +21,7 @@
 ![image](https://user-images.githubusercontent.com/60670214/154107398-4edd9cbf-e80a-4e6d-a0fe-62d1b4d8f8d2.png)
 
 Диаграмма последовательности для загрузки презентации
+![image](https://user-images.githubusercontent.com/60670214/154109367-a1bb5d91-c75f-403a-a6f5-0745d536ea79.png)
 
 
 # Лабораторная 7. Знакомство с GIT.
