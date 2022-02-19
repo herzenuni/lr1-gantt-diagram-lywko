@@ -20,6 +20,10 @@
 ![image](https://user-images.githubusercontent.com/60670214/154807346-ec39a381-2b49-49d9-bba5-25ea050f580e.png)
 ![image](https://user-images.githubusercontent.com/60670214/154807363-0d37b281-501c-4d64-90f0-61b1a74c11c2.png)
 ![image](https://user-images.githubusercontent.com/60670214/154807469-d4c2a757-5885-47b7-bb49-75050c56287b.png)
+## Мобильная версия:
+![image](https://user-images.githubusercontent.com/60670214/154807900-37b55718-1648-4a00-88b3-bfd3eac1cb9a.png)
+![image](https://user-images.githubusercontent.com/60670214/154807953-72a22cf5-6676-4584-b1ce-bfe8a2776f7e.png)
+
 
 # Лабораторная 6. UML-диаграмма
 ## Диаграмма прецедентов
