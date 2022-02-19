@@ -15,13 +15,21 @@
 ![Лабораторная работа 1  Диаграмма Ганта](https://user-images.githubusercontent.com/60670214/154122567-543bfd87-27f9-4d63-959f-5c9ae5ee4bd5.png)
 
 # Лабораторная 5. Макетирование
+![image](https://user-images.githubusercontent.com/60670214/154807334-82ea5d45-2b58-4efc-80c8-e2f1d43c986d.png)
+
 
 # Лабораторная 6. UML-диаграмма
 ## Диаграмма прецедентов
 ![image](https://user-images.githubusercontent.com/60670214/154107398-4edd9cbf-e80a-4e6d-a0fe-62d1b4d8f8d2.png)
 
 ## Диаграмма последовательности для загрузки презентации
+Десктопная:
 ![image](https://user-images.githubusercontent.com/60670214/154109367-a1bb5d91-c75f-403a-a6f5-0745d536ea79.png)
+![image](https://user-images.githubusercontent.com/60670214/154807346-ec39a381-2b49-49d9-bba5-25ea050f580e.png)
+![image](https://user-images.githubusercontent.com/60670214/154807363-0d37b281-501c-4d64-90f0-61b1a74c11c2.png)
+![image](https://user-images.githubusercontent.com/60670214/154807469-d4c2a757-5885-47b7-bb49-75050c56287b.png)
+
+
 
 
 # Лабораторная 7. Знакомство с GIT.
